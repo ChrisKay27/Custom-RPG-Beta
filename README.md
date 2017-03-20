@@ -1,7 +1,5 @@
-# Custom-RPG-Beta
-
-Download the beta of Custom Rpg below!
-(The Resilio Sync program is used to download and keep the beta up to date)
+# RPG-Hero-Beta
+Download the game maker from the links below!
 
 Get it on Google Drive here: 
 https://drive.google.com/open?id=0B6CABoj8NTxUUkhuV1pwRlJ4b1E
