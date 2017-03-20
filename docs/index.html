@@ -192,12 +192,14 @@ body {font-size:16px;}
       </div>
       <div class="w3-group">
         <label>Email</label>
-        <input class="w3-input w3-border" type="text" name="Email" required>
+        <input class="w3-input w3-border" type="text" name="_replyto" required>
       </div>
       <div class="w3-group">
         <label>Message</label>
         <input class="w3-input w3-border" type="text" name="Message" required>
       </div>
+        <input type="hidden" name="_next" value="https://chriskay27.github.io/RPG-Hero-Beta/" />
+        <input type="text" name="_gotcha" style="display:none" />
         <button type="submit" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom">Send Message</button>
     </form>  
   </div>
