@@ -1,6 +1,9 @@
 # RPG-Hero-Beta
 Download the game maker from the links below!
 
+Check out the site:
+https://chriskay27.github.io/RPG-Hero-Beta/
+
 Get it on Google Drive here: 
 https://drive.google.com/open?id=0B6CABoj8NTxUUkhuV1pwRlJ4b1E
 
